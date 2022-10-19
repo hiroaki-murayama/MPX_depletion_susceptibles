@@ -1,0 +1,26 @@
+StateCode,State,Cases,Range
+AZ,Arizona,1,1 to 2
+CA,California,40,1 to 2
+CO,Colorado,5,1 to 2
+DC,District of Columbia,4,1 to 2
+FL,Florida,16,1 to 2
+GA,Georgia,5,1 to 2
+HI,Hawaii,5,1 to 2
+IL,Illinois,19,1 to 2
+IN,Indiana,2,1 to 2
+MD,Maryland,3,1 to 2
+MA,Massachusetts,9,1 to 2
+MO,Missouri,2,1 to 2
+NV,Nevada,1,1 to 2
+NJ,New Jersey,1,1 to 2
+NY,New York,22,1 to 2
+OH,Ohio,1,1 to 2
+OK,Oklahoma,2,1 to 2
+OR,Oregon,1,1 to 2
+PA,Pennsylvania,2,1 to 2
+RI,Rhode Island,1,1 to 2
+TX,Texas,4,1 to 2
+UT,Utah,3,1 to 2
+VA,Virginia,1,1 to 2
+WA,Washington,4,1 to 2
+Non U.S. resident in the U.S.,International,2,1 to 2
