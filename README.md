@@ -8,10 +8,8 @@ Underlying code for Murayama et al. (2022)
 ## Authors
 
 [Hiroaki Murayama](https://github.com/hiroaki-murayama),
+[Akira Endo](https://github.com/akira-endo),
 [Carl A. B. Pearson](https://github.com/pearsonca),
 [Sam Abbott](https://github.com/seabbs),
-[Fuminari Miura](https://github.com/fmiura),
-[Sung-mok Jung](https://github.com/SungmokJung),
 Elizabeth Fearon,
-[Sebastian Funk](https://github.com/sbfnk),
-[Akira Endo](https://github.com/akira-endo)
+[Sebastian Funk](https://github.com/sbfnk)
