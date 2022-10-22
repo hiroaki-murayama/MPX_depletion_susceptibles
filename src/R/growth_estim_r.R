@@ -21,6 +21,7 @@ numb_i <- c(1:length(c_number))
 numb_i <- numb_i[-c(12,14,16,22,24,25,29,30,32,44,45,50,51)]  # exclude countries: less than 10 cases or only 5 days or less since  introduction of first 10 cases
 for(i in numb_i){ 
   N_pop <- c(46090433, 26136558, 9115559, 11696761, 12011327, 215769215, 38445168, 19470178, 52051411, 4050768, 10751718, 95414401, 5846420, 11085852, 18220330, 1326535, 5559000, 65580278, 84352236, 32452865, 10314829, 1326535, 9607599, 346002, 1417566557, 5055121, 8655535, 60273038, 2961167, 6825445, 647588, 444076, 131843985, 17215189, 217163611, 5511411, 4314767, 33961522, 37757348, 10196709, 2702749, 18961090, 8661597, 5947961, 5465323, 2079544, 46793237, 10233038, 8789076, 86289462, 10147225, 68643511, 335184010)
+  c_n_df <- cbind(c_number, N_pop)
   dff <- df %>% filter(Country==country[c_number[i]])
   dff$Date <- as.Date(dff$Date)
   
@@ -36,7 +37,7 @@ for(i in numb_i){
   t = df_fin$num
   T= length(it)
   TT = df_fin$num[T]
-  N_pop=N_pop[i]
+  N_pop=c_n_df %>% as.data.frame() %>% filter(c_number==c_number[i]) %>% dplyr::select(N_pop) %>% as.numeric()
   data = list(T=T, it=it, t=t, TT=TT, N_pop=N_pop)
   # specify parameters to monitor
   parameters = c("K","N0","a","cases","r")
