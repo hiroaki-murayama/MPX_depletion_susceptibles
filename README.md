@@ -1,5 +1,5 @@
-# MPX_depletion_susceptibles
-Underlying code for Murayama et al. (2022)
+# Accumulation of immunity in heavy-tailed sexual contact networks shapes monkeypox outbreak sizes
+Source code accompanying Murayama et al. "EAccumulation of immunity in heavy-tailed sexual contact networks shapes monkeypox outbreak sizes". https://doi.org/10.1101/2022.11.14.22282286
 
 ## Licence
 
@@ -11,7 +11,7 @@ Underlying code for Murayama et al. (2022)
 [Carl A. B. Pearson](https://github.com/pearsonca),
 [Sam Abbott](https://github.com/seabbs),
 [Fuminari Miura](https://github.com/fmiura),
-[Sung-mok Jung](https://github.com/SungmokJung)
+[Sung-mok Jung](https://github.com/SungmokJung),
 Elizabeth Fearon,
 [Sebastian Funk](https://github.com/sbfnk),
 [Akira Endo](https://github.com/akira-endo)
