@@ -1,5 +1,5 @@
 # Accumulation of immunity in heavy-tailed sexual contact networks shapes monkeypox outbreak sizes
-Source code accompanying Murayama et al. "EAccumulation of immunity in heavy-tailed sexual contact networks shapes monkeypox outbreak sizes". https://doi.org/10.1101/2022.11.14.22282286
+Source code accompanying Murayama et al. "Accumulation of immunity in heavy-tailed sexual contact networks shapes monkeypox outbreak sizes". https://doi.org/10.1101/2022.11.14.22282286
 
 ## Licence
 
