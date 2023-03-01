@@ -6,7 +6,7 @@ Source code accompanying Murayama et al. "Accumulation of immunity in heavy-tail
 - US_states_analysis.ipynb: Jupyter Notebook to identify where the growth rate for each US-state reaches zero.
 - SAR_estim.ipynb: Jupyter Notebook to reproduce the simulation outputs based on our network model.
 - growth_estim.stan: Stan code for fitting observed cumulative incidence data to Gompertz curve with its local growth rate jointly computed.
-- inference.R: R code to reproduce the transmission trajectories over time and the relationship between secondary attack risk and herd immunity threshold without the effect of any interventions or behavioural changes.
+- inference.R: R code to reproduce the transmission trajectories over time and the relationship between secondary attack risk and herd immunity threshold without accounting for the effect of any interventions or behavioural changes.
 - finalsize.R: R code to compute the final sizes.
 
 ## Licence
