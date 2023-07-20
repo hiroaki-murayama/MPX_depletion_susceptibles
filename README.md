@@ -1,5 +1,6 @@
 # Accumulation of immunity in heavy-tailed sexual contact networks shapes mpox outbreak sizes
-Source code accompanying Murayama et al. "Accumulation of immunity in heavy-tailed sexual contact networks shapes mpox outbreak sizes". Published in *The Journal of Infectious Diseases* doi: [10.1093/infdis/jiad254](https://doi.org/10.1093/infdis/jiad254)
+Source code accompanying Murayama et al. "Accumulation of immunity in heavy-tailed sexual contact networks shapes mpox outbreak sizes". <br>
+Published in *The Journal of Infectious Diseases* doi: [10.1093/infdis/jiad254](https://doi.org/10.1093/infdis/jiad254)
 
 ## Main file
 - countries_analysis.ipynb: Jupyter Notebook to identify where the local growth rate for each country reaches zero.
